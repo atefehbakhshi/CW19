@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(225, 203, 176);
+}
+.container{
+    width: 20rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background: whitesmoke;
+    text-align: center;
+}
+button{
+    padding: 0.2rem 0.8rem;
+    background-color: aqua;
+    border: 1px solid aqua;
+}
